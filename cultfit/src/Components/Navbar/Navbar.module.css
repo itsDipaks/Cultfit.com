@@ -1,5 +1,57 @@
 .nav_container{
     background-color: black;
-    color: white;
+    color: rgb(255, 0, 0);
     height: 40px;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    padding: 0px 10px 0px 10px;
+}
+.navlinkbox{
+    display: flex;
+    width: 40%;
+justify-content: space-between;
+}
+
+
+.navtabbox{
+    display: flex;
+    width: 20%;
+    justify-content: space-around;
+    align-items: center;
+    /* border: 1px solid red; */
+    
+}
+
+.tab{
+    width: 10px;
+}
+.tab{
+    width: 10px;
+}
+.tabimg{
+    width: 24px;
+}
+.activelink{
+    color: red;
+    margin-top: 10px;
+    text-align: center;
+    text-decoration: none;
+    }
+    .deactivelink{
+    color: rgb(255, 255, 255);
+    text-align: center;
+    text-decoration: none;
+    margin-top: 10px;
+    }
+
+.logobox{
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    width: 20%;
+
+}
+.logimg{
+    width: 40%;
 }
