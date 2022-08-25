@@ -8,7 +8,7 @@ import Navtabs from './Navtabs'
 const Navbar = () => {
   return (
   <>
-  <Container maxW='container.sm' className={styles.nav_container} >
+  <Container maxW='1480px' className={styles.nav_container} >
     <Logo/>
 <Contentmenu/>
 <Navtabs/>

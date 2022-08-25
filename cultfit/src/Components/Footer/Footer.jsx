@@ -6,7 +6,7 @@ import Rightside from './Rightside'
 import Styles from "./Footercompo.module.css"
 const Footer = () => {
   return (
-    <Container className={Styles.footercontainer}>
+    <Container maxW='1480px' className={Styles.footercontainer}>
     <Leftside/>
     <Midbox/>
     <Rightside/>

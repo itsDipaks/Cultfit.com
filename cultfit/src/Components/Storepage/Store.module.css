@@ -1,0 +1,23 @@
+.sportlightcontainer{
+    display: flex;
+    justify-content: space-between;
+    width: 95%;
+    margin: auto;
+}
+.spotlightimg{
+    width: 47%;
+}
+
+
+
+
+
+.Shopworkout{
+    display: flex;
+    width: 90%;
+    margin: auto;
+    justify-content: space-between;
+}
+.shopbyworkimg{
+width: 23%;
+}

@@ -1,0 +1,929 @@
+{
+  "Products": [
+    {
+       "id":1,
+        "name": "Smartrow c1: Smart Bluetooth enabled Rowing Machine",
+        "desc": "• Fitness just got smarter with the all new cultsport smartrow c1. Designed for the everyday athlete, this power packed rower enables full-body training with the most interactive workout experience on the market. Bring home the full smart training experience:",
+       "price": 39900,
+        "actualPrice": 99900,
+        "img1":"https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/L5fKq5BFJGzsMrSuqDNnqqWy",
+        "img2": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/a4uWFiHM6ZgCBMpR9p9oCiX6",
+        "img3": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/EPWAbq28Gwk892ZvKdvvQBVy",
+        "img4": " https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/BzrV8iFhJCQw18HKYp74mcWB",
+        "type":"CULTSPORT",
+        "category": "ROWING"
+      } 
+      ,{
+       "id":2,
+       "name": "Smartrun c1: Bluetooth enabled treadmill with 6-level incline",
+       "desc": "• Fitness just got smarter with the all new cultsport smartrun c1. Designed for the everyday athlete, enjoy India's 1st range of fully smart treadmills with the most interactive workout experience on the market. With a 3HP motor and multi-level manual incline, this is a compact full body cardio experience. Bring home the full smart training experience: ",
+      "price": 34999,
+       "actualPrice": 68999,
+       "img1":"https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/GpeKVjiXj2nnH9eafrutHxfm",
+       "img2": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/nVFUDvZWqZMrCF35WSjwjhba",
+       "img3": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/uErS9kV2wEvvhjUMbCVoXEuq",
+       "img4": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/k3pwhea8R3KyBZ9x8wVKrevN",
+       "type":"CULTSPORT",
+       "category": "TREADMILL"
+     }
+ 
+     ,{
+       "id":3,
+       "name": "Smartrun c2: Bluetooth enabled treadmill with 15-level auto incline",
+       "desc": "• Fitness just got smarter with the all new cultsport smartrun c2. Designed for the everyday athlete, enjoy India's 1st range of fully smart treadmills with the most interactive workout experience on the market. With a 4 hp motor, 15-level auto incline and a compact design, this machine is a full cardio training experience in your home. Bring home the full smart training experience:",
+      "price": 39999,
+       "actualPrice": 81599,
+       "img1":"https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/yHz1nfjmiafpYRHeTMiBfB9A",
+       "img2": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/FerjbGj63cpjqxqUukv8iwei",
+       "img3": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/Lu5VLWGwuBs8NAwiRAxcF7yB",
+       "img4": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/S4eRDckrZMSfWYXeEyE8uF82",
+       "type":"CULTSPORT",
+       "category": "TREADMILL"
+     }
+ 
+     ,{
+       "id":4,
+       "name": "FITKIT 10K 2.5HP DC Motorized Treadmill",
+       "desc": "Get 1 Year Free Subscription of cultsport play - An Immersive Fitness Game, Free Diet & Fitness Plan for 1 month along with 1 Doctor Consultation & Personal Video Training Session, Warranty: 1 Year warranty on Motor and Manufacturing Defect, 3 Year Warranty on Frame.",
+       "price": 24199,
+       "actualPrice": 69999,
+       "img1":"https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/SDgpHbPyumHJkqeM5ehAh6Gh",
+       "img2": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/tTfbUrg4MSCx3pqwdY6yPwwU",
+       "img3": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/xyPZU43PuEGbWhtrNKguRB23",
+       "img4": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/6M4sVSnZEufQ8bMzEVJ5KhCA",
+       "type":"FITKIT",
+       "category": "TREADMILL"
+     }
+ 
+     ,{
+       "id":5,
+       "name": "FITKIT 10K 2.5HP DC Motorized Treadmill",
+       "desc": "Get 1 Year Free Subscription of cultsport play - An Immersive Fitness Game, Free Diet & Fitness Plan for 1 month along with 1 Doctor Consultation & Personal Video Training Session, Warranty: 1 Year warranty on Motor and Manufacturing Defect, 3 Year Warranty on Frame.",
+      "price": 24199,
+       "actualPrice": 69999,
+       "img1":"https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/SDgpHbPyumHJkqeM5ehAh6Gh",
+       "img2": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/tTfbUrg4MSCx3pqwdY6yPwwU",
+       "img3": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/xyPZU43PuEGbWhtrNKguRB23",
+       "img4": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/6M4sVSnZEufQ8bMzEVJ5KhCA",
+       "type":"FITKIT",
+       "category": "TREADMILL"
+     }
+ 
+     ,{
+       "id":6,
+       "name": "Smartbike c1: Bluetooth enabled spin bike with 8-level magnetic resistance",
+       "desc": "• Fitness just got smarter with the all new cultsport smartbike c1. Designed for the everyday athlete, with the most interactive workout experience on the market, this Bluetooth enabled indoor spin bike with 8 step magnetic resistance and a 13.3 lbs flywheel offers serious value. Bring home the full smart training experience.",
+       "price": 22999,
+       "actualPrice": 40999,
+       "img1":"https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/vX1Vgko9H9n3Nn3rdyQnNkrb",
+       "img2": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/3TueS134Fbi27dpP5s3n65jD",
+       "img3": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/Ecm1cjmfh6b8Nek4Erh7fFv1",
+       "img4": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/sLrRG5pzNxMK3xCnZYZ3aSDM",
+       "type":"BIKE",
+       "category": "SPRINBIKE"
+     }
+     ,{
+       "id":7,
+       "name": "OFP-1000, 8 Level Magnetic Resistance Spin Bike",
+       "desc": "Get 1 Year Free Subscription of cultsport play - An Immersive Fitness Game, Free Diet & Fitness Plan for 1 month along with 1 Doctor Consultation & Personal Video Training Session, Warranty: 6 Months Warranty on Manufacturing defects.",
+      "price": 16999,
+       "actualPrice": 39999,
+       "img1": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/J4NyobsjLcF5DuYvTdeWXkTr",
+       "img2": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/hawwkGuoDZuwth1HY3xXpJgZ",
+       "img3": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/EDsbKweSSj8cCeLcHmpuAaiM",
+       "img4": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/HUxywSBrP8tRYAvCbrrp5Kp2",
+       "type":"BIKE",
+       "category": "SPINBIKE"
+     }
+ 
+     ,{
+       "id":8,
+       "name": "Smartbike c2: Bluetooth enabled spin bike with stepless magnetic resistance",
+       "desc": "• Fitness just got smarter with the all new cultsport smartbike c2. Designed for the everyday athlete, with the most interactive workout experience on the market, this Bluetooth enabled indoor spin bike with infinite magnetic resistance and a 13.3 lbs flywheel offers serious value. Bring home the full smart training experience:",
+       "price": 24999,
+       "actualPrice": 44899,
+       "img1":"https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/nTvMdcZi5B2MzrXZJicv7acr",
+       "img2": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/3YMxjgYjB8FRhuFc69fzTSoT",
+       "img3": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/zZSNT3YYXwNQY8yML6WSaotw",
+       "img4": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/dUPUF9HpCcddBfwb4Nhk7Z13",
+       "type":"BIKE",
+       "category": "SMARTBIKE"
+     }
+ 
+     ,{
+       "id":9,
+       "name": "FT200M 4.5HP DC Motorized Treadmill",
+       "desc": "Get 1 Year Free Subscription of cultsport play - An Immersive Fitness Game, Free Diet & Fitness Plan for 1 month along with 1 Doctor Consultation & Personal Video Training Session, Warranty: 1 Year warranty on Motor and Manufacturing Defect, 3 Year Warranty on Frame.",
+ 
+       "price": 34999,
+       "actualPrice": 80000,
+       "img1":"https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/B4K4rku74fqHCaWpgEV14uH1",
+       "img2": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/UHQ9t6wpUsGCYMuDyJSS5ZZ8",
+       "img3": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/aFwqDqysq17Md5c6FZSxYqPm",
+       "img4": " https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/wHiwGN1UrUDHYSTgRavwDH14",
+       "type":"FITKIT",
+       "category": "TREADMILL"
+     }
+ 
+     ,{
+       "id":10,
+       "name": "FT200S 4.5HP DC Motorized Treadmill",
+       "desc": "Get 1 Year Free Subscription of cultsport play - An Immersive Fitness Game, Free Diet & Fitness Plan for 1 month along with 1 Doctor Consultation & Personal Video Training Session, Warranty: 1 Year warranty on Motor and Manufacturing Defect, 3 Year Warranty on Frame.",
+ 
+      "price": 32999,
+       "actualPrice": 75000,
+       "img1":"https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/FsezbKx6Tyj3DAXyHa7bL6hu",
+       "img2": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/ywbkMm98kQ5jxR1TvZJRHEj7",
+       "img3": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/1XQBd3dzQ1qmC8JbShAV8Wen",
+       "img4": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/825u4gUHSde77oc3S42q1Dyp",
+       "type":"FITKIT",
+       "category": "TREADMILL"
+     }
+ 
+     ,{
+       "id":11,
+       "name": "Ombre Yoga Tights",
+       "desc": "Designed with flexibility in mind this high-waisted Made for Yoga Ombre leggings to give you all the technical features you could want for your workout. They have everything you could want: a high waistband, a shaping effect, no camel toe, ultra-flat seams for more comfort.",
+       "price": 3699,
+       "size": ["s","l","m","l","xxl"],
+       "img1":"https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/2dioFsRcvQ8uu43WTe8zRqzc",
+       "img2": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/v7RKR7Jt7uJ1goX5Lzn9Fnxx",
+       "img3": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/qLDcZXcWkrkRhacsSLNUjKsy",
+       "img4": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/1fVjrBJiauA3DhpbdLNWcpia",
+       "type":"WOMEN",
+       "category": "LEGGINGS"
+     }
+ 
+     ,{
+       "id":12,
+       "name": "Solid Yoga Tights",
+       "desc": "Designed with flexibility in mind this high-waisted Made for Yoga leggings to give you all the technical features you could want for your workout. They have everything you could want: a high waistband, a shaping effect, no camel toe, ultra-flat seams for more comfort.",
+       "price": 2999,
+       "size": ["s","l","s","xxl"],
+       "img1":"https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/12Uc17w8J6Mx6xPrySbZjkXh",
+       "img2": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/GQu73i1btqERwJocDNg6Jr9B",
+       "img3": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/zZtzWshhfFedrKGfcdK2qwwt",
+       "img4": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/sAenn1rXktNH9BttFvsSSuFn",
+       "type":"WOMEN",
+       "category": "LEGGINGS"
+     }
+ 
+     ,{
+       "id":13,
+       "name": "Wave Print Yoga Tights",
+       "desc": "Designed with flexibility in mind this high-waisted Made for Yoga Waves Printed leggings to give you all the technical features you could want for your workout. They have everything you could want: a high waistband, a shaping effect, no camel toe, ultra-flat seams for more comfort.",
+       "price": 3199,
+       "size": ["s","l","m","xxl"],
+       "img1": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/vtjMKjpCWzmz65m3wShyxYfC",
+       "img2": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/uD99FxNNQCBv8GwAxogAniUw",
+       "img3": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/YAopcPehY7R8DLM78uUV6gLG",
+       "img4": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/NXQMW2ona6FMDzwdm3Z8JAhu",
+       "type":"WOMEN",
+       "category": "LEGGINGS"
+     }  
+            
+     ,{
+       "id":14,
+       "name": "Marble Print Yoga Tights",
+       "desc": "Designed with flexibility in mind this high-waisted Made for Yoga Marble Printed leggings to give you all the technical features you could want for your workout. They have everything you could want: a high waistband, a shaping effect, no camel toe, ultra-flat seams for more comfort.",
+       "size": ["s","l","m","xxl","xl"],
+      "price": 3199,
+       "img1":"https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/6QVK9RuqbhYkGFm3HqGgikrh",
+       "img2": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/dPkaMB9rEQJ48JtQfyTCcmmR",
+       "img3": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/VhUqirTkN5KU8CDoUjJUXaMm",
+       "img4": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/ZYzcp3wgpn6W4AeWiH6oBxcB",
+       "type":"WOMEN",
+       "category": "LEGGINGS"
+     }  
+        
+     ,{
+       "id":15,
+       "name": "Medium Impact Printed Sports Bra",
+       "desc": "Move with comfort and ease with this medium support racer back detail Made for Yoga workout bra which comes with a feature of removable padding .Add a stylish touch with the soothing print this bra will be the perfect pick.",
+       "size": ["s","l","xl","xxl","m"],
+       "price": 2799,
+       "img1": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/bbwg4DEy6qHsiBEdhp4tBkh5",
+       "img2": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/7DqC62ekDJW6RszN9WrMK4fE",
+       "img3": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/rDU11pBLvdhcACdjXU3YtgpV",
+       "img4": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/9bbKfykgZAry396U3Ubeu8Vh",
+       "type":"WOMEN",
+       "category": "LEGGINGS"
+     }  
+        
+     ,{
+       "id":16,
+       "name": "Medium Impact Printed Sports Bra",
+       "desc": "Move with comfort and ease with this medium support criss cross back detail Made for Yoga workout bra which comes with a feature of removable padding .Add a stylish touch with the soothing print this bra will be the perfect pick.",
+       "size": ["s","l","m","xl","xxl"],
+       "price": 2799,
+      
+       "img1":"https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/kste6ACBrxjHLdVfBAUhKhzb",
+       "img2": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/5GMuSNxpatWag3LHuiMTwCXV",
+       "img3": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/JzE3XVG2K4xscpTo3WQQ8oFp",
+       "img4": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/DKzS92qseTZjPvegiozLCcfW",
+       "type":"WOMEN",
+       "category": "LEGGINGS"
+     }  
+        
+     ,{
+ 
+       "id":17,
+       "name": "Medium Impact Printed Sports Bra",
+       "desc": "Move with comfort and ease with this medium support racer back detail Made for Yoga workout bra which comes with a feature of removable padding .Add a stylish touch with the soothing print this bra will be the perfect pick.",
+       "size": ["s","l","m","xl","xxl"],
+      "price": 2799,
+       "img1":"https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/HhK9rukqfQC3X5PC1bV93xTf",
+       "img2": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/fBgwL3h12GCdXkFAjA4otbAW",
+       "img3": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/D1RK7kLsocaqYfxh3YixFQ9i",
+       "img4": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/FfG8V1kHr33HiPJdGDt8NsAj",
+       "type":"WOMEN",
+       "category": "LEGGINGS"
+     }  
+        
+     ,{
+       "id":18,
+       "name": "Medium Impact Printed Sports Bra",
+       "desc": "Move with comfort and ease with this medium support criss cross back detail Made for Yoga workout bra which comes with a feature of removable padding .Add a stylish touch with the soothing print this bra will be the perfect pick.",
+       "size": ["s","l","m","xl","xxl"],
+      "price": 2799,
+       "img1":"https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/9Sj7jZyVrQkawfHuSxk5KRGB",
+       "img2": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/cxHiJzwQ8idNLjVhze7n1dNZ",
+       "img3": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/bDr7brcypmZzxYQdzJq8b94K",
+       "img4": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/9FsDnfKjHHLDXVQ3JfVBwn4q",
+       "type":"WOMEN",
+       "category": "LEGGINGS"
+     },
+ 
+     {
+       "id": 19,
+       "name": "FT100M, 3.25HP DC Motorized Treadmill",
+       "desc": "Get 1 Year Free Subscription of cultsport play - An Immersive Fitness Game, Free Diet & Fitness Plan for 1 month along with 1 Doctor Consultation & Personal Video Training Session, Warranty: 1 Year warranty on Motor and Manufacturing Defect, 3 Year Warranty on Frame.",
+      "price": 27999,
+       "actualPrice": 55000,
+       "img1": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/AqGDxJejHHHFrpVo46VHz4hD",
+       "img2": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/nRHsrqn5hfPC1p4Zb5Tkt5aJ",
+       "img3": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/nofte3gF8i2MzYWMrPS5ukDY",
+       "img4": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/nofte3gF8i2MzYWMrPS5ukDY",
+       "type": "FITKIT",
+       "category": "TREADMILL"
+   },
+ 
+   {
+     "id": 20,
+     "name": "RPM 10K 2.5HP DC Motorized Treadmill",
+     "desc": "Get 1 Year Free Subscription of cultsport play - An Immersive Fitness Game, Free Diet & Fitness Plan for 1 month along with 1 Doctor Consultation & Personal Video Training Session, Warranty: 1 Year warranty on Motor and Manufacturing Defect, 3 Year Warranty on Frame.",
+    "price": 30199,
+     "actualPrice": 70999,
+     "img1": " https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/axzAx3U7PfQZSx8N6yTbtwBa",
+     "img2": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/Syei2nRMbfqeuhV7HGKPyt5s",
+     "img3": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/MVD344VBGbUGW5UVKt9MKC5F",
+     "img4": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/YACceQGqr5BCJmtdTBs8hMMu",
+     "type":"RPM FITNESS",
+     "category": "TREADMILL"
+   },
+   
+   {
+     "id": 21,
+     "name": "FormFit High Impact Ivy Sports Bra",
+     "desc": "Your perfect training partner, this sports bra with its hidden stabilizer panels promises extra support and bounce control, especially during high impact activities. The power mesh allows for better ventilation and the hook & eye closure adds to your convenience while offering additional adjustability. Time to be fit with FormFit!",
+     "price": 1799,
+     "actualPrice":2499,
+     "size": ["s","l","m","xxl","xl"],
+     "img1": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/mU1dZAHqT6pjRn55ZWYvq6Mf",
+     "img2": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/bFNaeVGrnJ2wagRkkTgBEv1n",
+     "img3": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/sq873wTcoGcsMmaKtjtDsbtk",
+     "img4": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/qzQmE6e63CujJ9GuzxQtaf89",
+     "type":"CULTSPORT",
+     "category": "WOMEN"
+ },
+ 
+ {
+   "id": 22,
+   "name": "Smartbike x1 with 22' HD touchscreen",
+   "desc": " RIDE INTO FUTURE OF FITNESS, • LIVE classes - Live sessions with expert trainers, • On-Demand workouts - Anytime , Anywhere workout . 200 + On-Demand workout videos, • Scenic rides - 100+ Scenic views to choose and ride, • Weekly Updates - Celebrate every milestone with weekly updates . Keep a track of every important aspect",
+   "price":47000,
+   "actualPrice": 119900,
+   "img1": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/kTssBkQouVdBHn446kZPn5bG",
+   "img2": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/cRU3xKAxo212s9A3na4R9Gyg",
+   "img3": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/usmfmd8zo4kk8vvuAscivP3D",
+   "img4": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/MdAJww5bjhmQLavbFbNNcR7C",
+   "type":"BIKE",
+   "category": "SPINBIKE"
+ },
+ 
+ {
+   "id": 23,
+   "name": "OFP-M1, 100 Level Magnetic Resistance Spin Bike",
+   "desc": "Get 1 Year Free Subscription of cultsport play - An Immersive Fitness Game, Free Diet & Fitness Plan for 1 month along with 1 Doctor Consultation & Personal Video Training Session, Warranty: 6 Months Warranty on Manufacturing defects.",
+   "price": 20999,
+   "actualPrice": 59999,
+   "img1": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/x4H5oZvc2DVoVQ7QzPeF38Ww",
+   "img2": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/REP9Sp7UgJ2m5uMr6mXTomPZ",
+   "img3": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/vgM9YCnzhXcc3igG7YuCFrPh",
+   "img4": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/ah1sDiQQXjJHiedyM5uptF6u",
+   "type":"BIKE",
+   "category": "SPINBIKE"
+ },
+ 
+ {
+   "id": 24,
+   "name": "RPMStamina with Free Installation Upright Stationary Exercise Bike",
+   "desc": "Get 1 Month Free Diet & Fitness Plan, Free at home installation & post sales support offered through 650+ offices across India, Warranty: 6 Months Domestic Warranty on Manufacturing Defects",
+   "price": 6699,
+   "actualPrice": 14999,
+   "img1": " https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/8G5NRKvEPmzzyD4UEJ1chSDa",
+   "img2": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/28gBKGXxFY93pKaeamEdYmrb",
+   "img3": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/z2BYegjh2a78iQxTzhB6CEeU",
+   "img4": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/R9Ksuz9wXU8yRJ71kWTxj3ci",
+   "type":"RPM FITNESS",
+   "category": "EXERCISE BIKE"
+ },
+ 
+ {
+   "id": 25,
+   "name": "OFP-1001 Static Handle with Backrest Upright Stationary Exercise Bike",
+   "desc": "Get 1 Month Free Diet & Fitness Plan, Free at home installation & post sales support offered through 650+ offices across India, Warranty: 6 Months Domestic Warranty on Manufacturing Defects",
+  "price": 6699,
+   "actualPrice":12000,
+   "img1": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/gPsDWqBnzXgt7HCdS6DVXNEz",
+   "img2": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/jMQccQfh2J4gN4ZT2Pmhpm4R",
+   "img3": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/1k749JdU4fTBgDTW3uyjkVPk",
+   "img4": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/5pCivrGnEBvVMDsxCHMGCuqZ",
+   "type": "BIKE",
+   "category": "EXERCISE BIKE"
+ },
+ 
+ {
+   "id": 26,
+   "name": " OFP-1004 Moving Handle w/o Backrest Upright Stationary Exercise Bike",
+   "desc": "Avail free 12 month cultpass live and get unlimited access to live classes on fitness, dance, meditation, and podcasts on cult, 1 Month Free Diet & Fitness Plan, Free at home installation & post sales support offered through 650+ offices across India, Warranty: 6 Months Domestic Warranty on Manufacturing Defects ",
+  "price": 6999,
+   "actualPrice": 11000 ,
+   "img1": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/HqCSWS9jkkdQcuEg9Ebz6s1h",
+   "img2": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/gZNKESJuEE5QqZFaCVeZjx8h",
+   "img3": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/AtX2GqJrxVTi7CSV5qGAHpdc",
+   "img4": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/KZZEy6a2SiEZAgf8FetqQPBt",
+   "type":"BIKE",
+   "category": "EXERCISE BIKE"
+ },
+ {
+   "id": 27,
+   "name": "Rimo 27.5' 21-speed steel MTB (Shimano gears) ",
+   "desc": "• Fitness just got smarter with the all new range of cultsport cycles. Designed for the everyday athlete, this fully fledged 21-speed Shimano geared cycle with its rigid steel frame and the most interactive workout experience on the market will be your all-weather riding companion . Connect your smartphone/tablet with the cultsport app and unlock:",
+   "price": 15599,
+   "actualPrice": 39999,
+   "img1": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/ZJBYsrvTZKUc9QzYK6fh4f8n",
+   "img2": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/dUr5Q9zrKBvbPvufvZ8G7fGA",
+   "img3": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/YMPBvZWkcGBT4r6kfWyQVB5o",
+   "img4": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/YP7uhYgUfPttYUWnHs7QGDRV",
+   "type": "CYCLE",
+   "category": "CYCLE"
+ },
+ 
+ {
+   "id": 28,
+   "name": "Bolan 27.5, 21-speed steel MTB (Shimano gears)",
+   "desc": "• Fitness just got smarter with the all new range of cultsport cycles. Designed for the everyday athlete, this fully fledged 21-speed Shimano geared cycle with its rigid steel frame and the most interactive workout experience on the market will be your all-weather riding companion . Connect your smartphone/tablet with the cultsport app and unlock:",
+  "price": 15599,
+   "actualPrice": 39999,
+   "img1": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/nwziy12UVSHqbS8LGR5cnzqc",
+   "img2": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/fh94foPDpe8MioP47aJfX9Ww",
+   "img3": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/a8HVxU1YNWtiYt7MDmLJuxW4",
+   "img4": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/QoMZCkVGC6tWWKXJpuheAiXL",
+   "type": "CYCLE",
+   "category": "CYCLE"
+ },
+ 
+ {
+   "id": 29,
+   "name": "Neel 26' 21-speed alloy MTB (Shimano gears)",
+   "desc": "• Fitness just got smarter with the all new range of cultsport cycles. Designed for the everyday athlete, this fully fledged 21-speed Shimano geared cycle with its light & sturdy alloy frame and the most interactive workout experience on the market, will be your all-weather riding companion . Connect your smartphone/tablet with the cultsport app and unlock:",
+   "price": 16699,
+   "actualPrice": 43999,
+   "img1": " https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/iJGstmndhFJaAfywnVLaEppW",
+   "img2": " https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/nYVVDktUW5rYq7SxVdWzVLSh",
+   "img3": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/X1MdD8ytSaDwTBGaMqgpeCHP ",
+   "img4": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/YqzT7yTwo8SA8tDRAsSnjTKq ",
+   "type": "CYCLE",
+   "category": "CYCLE"
+ },
+ 
+ {
+   "id": 30,
+   "name": " Yoma 27.5' 21-speed alloy MTB (Shimano gears)",
+   "desc": " • Fitness just got smarter with the all new range of cultsport cycles. Designed for the everyday athlete, this fully fledged 21-speed Shimano geared cycle with its light & sturdy alloy frame and the most interactive workout experience on the market, will be your all-weather riding companion . Connect your smartphone/tablet with the cultsport app and unlock:",
+ 
+  "price": 17099,
+   "actualPrice": 45999,
+   "img1": " https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/vaKa33MqJj9CsyFCKLma9sH7",
+   "img2": " https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/wSxuBA8WbaT8KvUpibw6nFK9",
+   "img3": " https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/eRfDrJFtdv5zDsjm2L2zmqKV",
+   "img4": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/DNF79g6rXq99MDXbRogXyvqr ",
+   "type": "CYCLE",
+   "category": "CYCLE"
+ },
+ 
+ {
+   "id": 31,
+   "name": "UT7002S26, (Yellow, Black) Steel, Wire Brake, 26T City Bike (Single Speed)",
+   "desc": "Get 1 Month Free Diet & Fitness Plan, Track your Ride with cultsport APP, Free at home installation & post sales support offered through 650+ offices across India, Warranty: 6 Months Domestic Warranty on Manufacturing Defects.",
+  "price":7499,
+   "actualPrice": 12000,
+   "img1": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/c7XhqwsA6bDpazyU1DLzF22Y ",
+   "img2": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/52bj43Uy5Ch7VL1aHknoUpx9",
+   "img3": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/4kAtTyHaBkv3qfZJ4EFrPPjF",
+   "img4": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/L6So3bEcM7maxrRgfwaKSB76",
+   "type": "CYCLE",
+   "category": "CYCLE"
+ },
+ {
+   "id": 32,
+   "name": "UT3003A26, Black, Alloy MTB 26 T Shimano Geared Mountain Cycle (21 Gear)",
+   "desc": "Get 1 Month Free Diet & Fitness Plan, Track your Ride with cultsport APP, Free at home installation & post sales support offered through 650+ offices across India, Warranty: 6 Months Domestic Warranty on Manufacturing Defects.",
+  "price": 13499,
+   "actualPrice": 43990,
+   "img1": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/4Jwdn1u2RcKw9xYBM6cZtNBD",
+   "img2": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/dEEHY2T4yyy7gNqSvhtC8nsn",
+   "img3": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/M35JQGuF5Qjkrr8F2xyRt54S",
+   "img4": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/iwCF2kNERLPE6DoMDhjmrz8y",
+   "type": "CYCLE",
+   "category": "CYCLE"
+ },
+ 
+ {
+   "id": 33,
+   "name": "UT3002A27.5, Green, Alloy MTB 27.5 T Shimano Geared Mountain Cycle (21 Gear) ",
+   "desc": "Get 1 Month Free Diet & Fitness Plan, Track your Ride with cultsport APP, Free at home installation & post sales support offered through 650+ offices across India, Warranty: 6 Months Domestic Warranty on Manufacturing Defects.",
+  "price": 13999,
+   "actualPrice": 47990,
+   "img1": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/qixE88WmFBP5o3tRRdQ6tZC9",
+   "img2": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/JLoLaTTCsYrhgmNokXTB76aB",
+   "img3": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/L3b1NnQYxNGBZ72oZjJ6scy2",
+   "img4": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/jWvZ86BdW8A4XjSzvzw1kBS1",
+   "type":"CYCLE",
+   "category": "CYCLE"
+ },
+ 
+ {
+   "id": 34,
+   "name": "UT2000, Red, Steel MTB 27.5 T Shimano Geared Mountain Cycle (21 Gear)",
+   "desc": "Get 1 Month Free Diet & Fitness Plan, Track your Ride with cultsport APP, Free at home installation & post sales support offered through 650+ offices across India, Warranty: 6 Months Domestic Warranty on Manufacturing Defects.",
+   "price": 12999,
+   "actualPrice": 49990,
+   "img1": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/Thbifm3mmLLx3pWffTY8vTMV",
+   "img2": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/bWrUCJ7j8SQBUfa8KbHfsWzd",
+   "img3": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/5FgZ6UCkoyF49v23z7g9GFoT",
+   "img4": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/Kwsv13jFegJ5F2VvMArmzRKP",
+   "type":"CYCLE",
+   "category": "CYCLE"
+ },
+ 
+ {
+   "id": 35,
+   "name": "UT6000S29, Green, Steel MTB 29 T Shimano Geared Mountain Cycle",
+   "desc": "Get 1 Month Free Diet & Fitness Plan, Track your Ride with cultsport APP, Free at home installation & post sales support offered through 650+ offices across India, Warranty: 6 Months Domestic Warranty on Manufacturing Defects.",
+  "price": 13999,
+   "actualPrice": 49999,
+   "img1": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/gPwaekWjEnjBg1q3thWowfjV",
+   "img2": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/Hb9catzmCWrnZSod9vYk8fac",
+   "img3": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/b58KtziVUVZu1JfiCTTzmfYd",
+   "img4": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/WNgNYcVjDJJWHBupcL6op5af",
+   "type": "CYCLE",
+   "category": "CYCLE"
+ },
+ 
+ 
+ {
+   "id": 36,
+   "name": "Signature Boxing Hand Wraps",
+   "desc": "Bring out the boxer in you with these ergonomically designed hand wraps. Built to last and to help you last during your boxing and combat sessions, these hand wraps help you avoid wrist and knuckle injuries by providing superior support and comfort. Ready to take a jab at a cross?",
+   "price": 269,
+   "actualPrice": 599,
+   "img1": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/rqFrmhQat5ajC62f7rKCPU6m",
+   "img2": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/WV9XUeA1ZVFFJ6zATrLVqrN1",
+   "img3": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/fkJF65ZKQJT4fq9HBsmcSMwf",
+   "img4": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/KPd7LZbPVTZfSQUEffRSogaB",
+   "type": "accessories",
+   "category": "accessories"
+ },
+ 
+ {
+   "id": 37,
+   "name": "Yoga Strap",
+   "desc": "Perfect your Yoga practice with the aid of this Yoga strap. A useful accessory that helps improve your stability, flexibility, strength and overall practice, a Yoga strap can be used by Yogis of all levels to take their practice to the next level.",
+   "price": 353,
+   "actualPrice": 599,
+   "img1": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/TtKkztyhA84pRRQb6SstMJSP",
+   "img2": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/8TCzaQey6eAmjMfKfUG8Vpc9",
+   "img3": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/AsQjx7z22LJ5gAnyo6JcfZSK",
+   "img4": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/8b7Yb2NJxqjw9EAieDnwV8PK",
+   "type":"accessories",
+   "category": "accessories"
+ },
+ 
+ {
+   "id": 38,
+   "name": "EVA Foam Yoga Block",
+   "desc": "Perfect your Yoga practice with the aid of this highly functional and portable Yoga block. A useful accessory that helps improve your stability, flexibility, strength and overall practice, a Yoga block can be used by Yogis of all levels to take their practice to the next level.",
+  "price": 386,
+   "actualPrice": 899,
+   "img1": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/TCnGF1WquCn1iV4VyMbRK6q7",
+   "img2": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/opZY82M7Uaz71JyZ4suTagqD",
+   "img3": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/xEsKLqkHwqDPHEhXRzAhqAa7",
+   "img4": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/sSK85rWxhxdr2b5vP2YvGDjy",
+   "type": "accessories",
+   "category": "accessories"
+ },
+ 
+ {
+   "id": 39,
+   "name": "Eco-Friendly Cork Yoga Block",
+   "desc": "Add the 'power' in your yoga sessions with our Eco-Friendly Cork Yoga Block. Made out of bio-degradable materials, this one is just the accessory to aid in your asanas, explore movement and take your practice to the next level.",
+   "price": 635,
+   "actualPrice": 1199,
+   "img1": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/dYff3qUPgwn5y93aqH8XPoem",
+   "img2": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/bgK83ubgx4KcfJZbF9BZbW49",
+   "img3": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/Xs8BTaNRgqHrTcWJo8W1o6Mz",
+   "img4": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/BcaDXFc46rZ13qFRMn459kN7",
+   "type":"accessories",
+   "category": "accessories"
+ },
+ 
+ {
+   "id": 40,
+   "name": "Dark Grey Yoga Mat",
+   "desc": "Ace those asanas with this signature Dark Grey Yoga Mat. Made out of durable TPE, this one provides ample padding along with no-slip grip so you can master that cobra or downward dog and turn your practice up by a notch.",
+  "price": 1495,
+   "actualPrice": 2199,
+   "img1": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/FD7LBsHMX74CdagPgh5Y6FBW",
+   "img2": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/oMJ7vs2QWNZEpRC8U818SrLb",
+   "img3": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/WWcF8CJQYHULF3EUPDftFQt2",
+   "img4": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/ovs713o4TiR2JL2Bum4fd3nR",
+   "type": "accessories",
+   "category": "accessories"
+ },
+ {
+   "id": 41,
+   "name": "2 in 1 Workout/Yoga Rubberized Cork (Eco Friendly) Mat (3mm)",
+   "desc": "Eco-Friendly Cork Yoga Mat with stance marking helps you achieve better alignment. Double this up as a workout mat for your cardio and strength training. Made out of bio-degradable materials, this one is just the accessory to aid in your asanas, explore movement and take your practice to the next level.",
+ 
+  "price": 2879,
+   "actualPrice": 2999,
+   "img1": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/DThmyLcUufobSLiE2QPFoddh",
+   "img2": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/BH51gNK6nkZiSpBvCgkshqhV ",
+   "img3": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/L6xTYHnesDv6dzGPTkZUuQYX ",
+   "img4": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/fBrdsCoLjrP24b4p4CR1V15g ",
+   "type":"accessories",
+   "category": "accessories"
+ },
+ {
+   "id": 42,
+   "name": "Rubber Workout Mat",
+   "desc": "Plank it, down-ward dog it or cart-wheel it - there's nothing this Workout Mat cannot handle. Made out of durable rubber, this anti-slip mat is perfect for all kinds of workout from weight training to cardio. The shock proof material makes it apt for at-home equipment training by shielding your floors from damage and weathering due to high-impact activities even when you have your shoes on. If you're looking for a long-lasting training partner for your in-door training sessions, this one won't disappoint. ",
+ 
+  "price": 4913,
+   "actualPrice": 6299,
+   "img1": " Plank it, down-ward dog it or cart-wheel it - there's nothing this Workout Mat cannot handle. Made out of durable rubber, this anti-slip mat is perfect for all kinds of workout from weight training to cardio. The shock proof material makes it apt for at-home equipment training by shielding your floors from damage and weathering due to high-impact activities even when you have your shoes on. If you're looking for a long-lasting training partner for your in-door training sessions, this one won't disappoint.",
+   "img2": " https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/m2JC9aNn8Q3CqZ8gY69au78o",
+   "img3": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/L7uM4wqLj4uCCQkVJVabeiG6",
+   "img4": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/WPwrmqZxMThjFJ6jVrwHVELo",
+   "type": "accessories",
+   "category": "accessories"
+ },
+ {
+   "id": 43,
+   "name": "2 in 1 Workout/Yoga Cork (Eco Friendly) Mat (3mm) With Stance Marking",
+   "desc": "Eco-Friendly Cork Yoga Mat with stance marking helps you achieve better alignment. Double this up as a workout mat for your cardio and strength training. Made out of bio-degradable materials, this one is just the accessory to aid in your asanas, explore movement and take your practice to the next level.",
+ 
+  "price": 2909,
+   "actualPrice": 2999,
+   "img1": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/rKzWygyVzKcbGdF3vUj1mR6m",
+   "img2": " https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/xrLR2U9VFQumQevbK8uPSpPW",
+   "img3": " https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/xrLR2U9VFQumQevbK8uPSpPW",
+   "img4": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/xrLR2U9VFQumQevbK8uPSpPW ",
+   "type": "accessories",
+   "category": "accessories"
+ },
+ 
+ 
+ 
+ {
+   "id": 44,
+   "name": "FormFit High Impact Ivy Sports Bra",
+   "desc": "Your perfect training partner, this sports bra with its hidden stabilizer panels promises extra support and bounce control, especially during high impact activities. The power mesh allows for better ventilation and the hook & eye closure adds to your convenience while offering additional adjustability. Time to be fit with FormFit!",
+   "size": ["s","l","m","xxl","xl"],
+  "price": 1799,
+   "actualPrice": 2499,
+   "img1": " https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/mU1dZAHqT6pjRn55ZWYvq6Mf",
+   "img2": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/bFNaeVGrnJ2wagRkkTgBEv1n",
+   "img3": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/sq873wTcoGcsMmaKtjtDsbtk",
+   "img4": " https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/sq873wTcoGcsMmaKtjtDsbtk",
+   "type":"TOPWEAR",
+   "category": "WOMEN"
+ },
+ 
+ {
+   "id": 45,
+   "name": "Vitals Running T-Shirt",
+   "desc": " Run your own race, defy the norms and cook up a storm in this workout T-shirt.Meant to move with you, this combines design and technology to deliver a performance as impressive as yours.",
+   "size": ["s","l","m","xxl","xl"],
+  "price": 1049 ,
+   "actualPrice":1499 ,
+   "img1": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/8vVR6uLBQSmX2vMsh6hfkXT2",
+   "img2": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/rb15xtEC9kVCwma2EG7X29PA",
+   "img3": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/NhmwrvMX5W9Rqo5CFKpgHfjP",
+   "img4": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/6C2go5CFTAxzVp3YBRfsrwpWvv",
+   "type":"TOPWEAR",
+   "category": "MEN"
+ },
+ 
+ {
+   "id": 46,
+   "name": "FormFit High Impact Ivy Sports Bra ",
+   "desc": "Your perfect training partner, this sports bra with its hidden stabilizer panels promises extra support and bounce control, especially during high impact activities. The power mesh allows for better ventilation and the hook & eye closure adds to your convenience while offering additional adjustability. Time to be fit with FormFit! ",
+   "size": ["s","l","m","xxl","xl"],
+  "price": 1799,
+   "actualPrice": 2499,
+   "img1": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/anBREptvxVED3KMUSXcPpTen",
+   "img2": " https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/RcDLWanZ6ZC6XWRwN6S5uxPC",
+   "img3": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/RcDLWanZ6ZC6XWRwN6S5uxPC",
+   "img4": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/RcDLWanZ6ZC6XWRwN6S5uxPC",
+   "type": "TOPWEAR",
+   "category": "WOMEN"
+ },
+ {
+   "id": 48,
+   "name": " Knockout Compression Leggings",
+   "desc": " Adjust no more with these chic leggings from cultsport! Designed for performance athletes like you, these leggings ensure comfort on all fronts with the anti-slip waistline and snug, ankle-length fit. Our fly dry tech will ensure that there are no visible sweat marks and the anti-microbial finish will help keep odour at bay. Time to stand out with Knockout!",
+   "size": ["s","l","m","xxl","xl"],
+  "price": 1999,
+   "actualPrice": 2799,
+   "img1": " https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/pTbBfD6mNcBnXAr3uAqqLnwn",
+   "img2": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/1tdN6MHtQEXMXwSxegeTzrHL ",
+   "img3": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/gufaQi4MSz8gWFL8MS7asEHm ",
+   "img4": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/F3bCz9pweBZ4mBN9RaKt217s ",
+   "type":"TOPWEAR",
+   "category": "WOMEN"
+ },
+ {
+   "id": 49,
+   "name": " AbsoluteFit Women's Prism Leggings",
+   "desc": "How about a big NO to adjusting and a bigger YES to a fab workout with the AbsoluteFit Leggings! Designed to support you like no other leggings, the AbsoluteFit does what it promises - it fits you just right! Thoughtfully crafted, these prism print leggings feature 7/8th length that fits you at the ankle, are chic, provide compression & muscle support and boost your performance by allowing you to focus only on what truly needs your attention - your training! ",
+   "size": ["s","l","m","xxl","xl"],
+  "price": 1999,
+   "actualPrice": 2799,
+   "img1": " https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/F3bCz9pweBZ4mBN9RaKt217s",
+   "img2": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/cox4r4ZfSvnjdR21N5RmGs51 ",
+   "img3": " https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/pp2V1eve9ZvyWMvSta35tFSx",
+   "img4": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/pp2V1eve9ZvyWMvSta35tFSx ",
+   "type":"TOPWEAR",
+   "category": "WOMEN"
+ },
+ 
+ {
+   "id": 50,
+   "name": "AbsoluteFit Women's Camo Leggings",
+   "desc": " How about a big NO to adjusting and a bigger YES to a fab workout with the AbsoluteFit Leggings! Designed to support you like no other leggings, the AbsoluteFit does what it promises - it fits you just right! Thoughtfully crafted, these camo print leggings feature 7/8th length that fits you at the ankle, are chic, provide compression & muscle support and boost your performance by allowing you to focus only on what truly needs your attention - your training!",
+   "size": ["s","l","m","xxl","xl"],
+  "price": 1999,
+   "actualPrice": 2799,
+   "img1": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/qo2qrBWRUZswWGJoDEUg1DcK",
+   "img2": " https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/qo2qrBWRUZswWGJoDEUg1DcK",
+   "img3": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/CFdRYoWQQRF5EUCggyrWruZk ",
+   "img4": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/pcNG1rQc78rsn5WHA11yQtxm ",
+   "type":"TOPWEAR",
+   "category": "WOMEN"
+ },
+ {
+   "id": 51,
+   "name": " AbsoluteFit Women's Abstract Print Leggings",
+   "desc": "How about a big NO to adjusting and a bigger YES to a fab workout with the AbsoluteFit Leggings! Designed to support you like no other leggings, the AbsoluteFit does what it promises - it fits you just right! Thoughtfully crafted, these abstract print leggings feature 7/8th length that fits you at the ankle, are chic, provide compression & muscle support and boost your performance by allowing you to focus only on what truly needs your attention - your training! ",
+   "size": ["s","l","m","xxl","xl"],
+  "price": 1999,
+   "actualPrice": 2799,
+   "img1": " https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/kaQEZ2kfFPwCcqHwuLApFYnV",
+   "img2": " https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/CQukDNHvJ7kxQKMPyJsGkGox",
+   "img3": " https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/ht1QCRz8tuMvn7Kn78iyhmo4",
+   "img4": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/uHxpESyg4GYTtGnPh6DLtFY5",
+   "type":"TOPWEAR",
+   "category": "WOMEN"
+ },
+ {
+   "id": 52,
+   "name": "Women's Solid Workout Leggings ",
+   "desc": " Embrace high-octane training sessions with the Women's Solid Workout Leggings. Crafted with breathable fabric, these leggings have special anti-slip waistbands and drawcords for improved adjustability. Accented with contrast white panels, these are perfect for those outdoor runs or indoor Tabata sessions. These also have an an antimicrobial and odor-resistant finish to help you stay breezy and fresh.",
+   "size": ["s","l","m","xxl","xl"],
+  "price": 1999,
+   "actualPrice": 2799,
+   "img1": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/j8z8xG1P7A7CwSu2Vuau3Y22",
+   "img2": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/pwJyeDQbMdkMDK5F4L8AshAJ",
+   "img3": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/3hLMsvQmGV8BeywA89dhNicv",
+   "img4": " https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/e82tFbpdrkzsn7ugU3rinau6",
+   "type": "TOPWEAR",
+   "category": "WOMEN"
+ },
+ {
+   "id": 53,
+   "name": " Seamless Ira Medium Impact Sports Bra",
+   "desc": "This Sports Bra is made using seamless technology to prevent chafing and irritation meaning there are no seams to cause discomfort. Whether using the sports bra during a run, yoga, or gym class, this will be the most comfortable sports bra you will ever use.Seamless stitching and sweat-wicking fabric ensures ultimate comfort while exercising.",
+   "size": ["s","l","m","xxl","xl"],
+  "price": 1049,
+   "actualPrice": 1799,
+   "img1": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/DxRCqkWJjsZGQ2mUhWBtsD11 ",
+   "img2": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/dkmusjBHXybj8wRHMxo35u39 ",
+   "img3": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/b9SCMGjmebDovwv3byNr1KZa ",
+   "img4": " https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/kCV1ntFA6pJ3ti2x4wz5xdia",
+   "type": "TOPWEAR",
+   "category": "WOMEN"
+ },
+ 
+ {
+   "id": 54,
+   "name": "Cleo Slip-on Sports Bra ",
+   "desc": " Mix some fashion with your passion! Enjoy superior support and bounce control with this high impact sports bra. Its double-layered design adds style while the mesh panel offers high coverage during your workouts. Time to look smarter, train harder!",
+   "size": ["s","l","m","xxl","xl"],
+  "price": 1439,
+   "actualPrice": 1999,
+   "img1": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/xfyTUvSwRaKGThjzqH54yNHB ",
+   "img2": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/7JkEX9E9cxuY57wVEc9mx4ww ",
+   "img3": " https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/CbNPncE38Womxd7H94iAUtFp",
+   "img4": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/6PC4S8EKENPWNJ1o2JGHY5CU ",
+   "type": "TOPWEAR",
+   "category": "WOMEN"
+ },
+ 
+ {
+   "id": 55,
+   "name": " AbsoluteFit Women's Floral Print Leggings",
+   "desc": "How about a big NO to adjusting and a bigger YES to a fab workout with the AbsoluteFit Leggings! Designed to support you like no other leggings, the AbsoluteFit does what it promises - it fits you just right! Thoughtfully crafted, these floral print leggings feature 7/8th length that fits you at the ankle, are chic, provide compression & muscle support and boost your performance by allowing you to focus only on what truly needs your attention - your training! ",
+   "size": ["s","l","m","xxl","xl"],
+  "price": 1655,
+   "actualPrice": 2299,
+   "img1": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/SZqR84jvT6wbiardp2g2jfA5 ",
+   "img2": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/CPPdvrp2TUyuRFpWakQVgwoh ",
+   "img3": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/Xwcfz4pKrxFVNaJWk5PfR68R ",
+   "img4": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/qHL1DrTuqrKuvgaPg891TUPs ",
+   "type": "BOTTOMWEAR",
+   "category": "WOMEN"
+ },
+ {
+   "id": 56,
+   "name": "AbsoluteFit Printed Tights",
+   "desc": "Reinvent your workoutfit with AbsoluteFit.The AbsoluteFit Leggings comes with odour resistance and Fly Dry technology to wick away sweat as keep up to your workout game. ",
+   "size": ["s","l","m","xxl","xl"],
+  "price": 1494,
+   "actualPrice": 2299,
+   "img1": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/F6pDyqk8axpX6S6Eket6kTFs",
+   "img2": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/zXbLxQEhEPh7aFDsEPp6Rgdx ",
+   "img3": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/5G1G8bD6bzTBobqbRqJKS3Q9 ",
+   "img4": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/dm7Go5feyveQLKN6tVzgY3gP ",
+   "type": "BOTTOMPWEAR",
+   "category": "WOMEN"
+ },
+ {
+   "id": 57,
+   "name": "Halftone Print Active Shorts",
+   "desc": "All about the shorts. Comfort with performance comes together in these stretchable cotton short. Its time to #Make your move.",
+   "size": ["s","l","m","xxl","xl"],
+  "price": 1199,
+   "actualPrice": 1599,
+   "img1": " https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/iK5BVWbaQ6KoEt1hwBUMuCdq",
+   "img2": " https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/KMwSu5mfTTAwPhwLkMq2wfE6",
+   "img3": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/1DtjSBVDmeAUVKa9XsZZzoty ",
+   "img4": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/T6pHhwoTRxvFp1uegUCfHiVT ",
+   "type": "BOTTOMPWEAR",
+   "category": "WOMEN"
+ },
+ 
+ {
+   "id":58,
+   "name": "Absolute Fit Solid Tights",
+   "desc": "Smoothing and sculpting comes together with these compression leggings with a flattering high waistband for plenty of coverage. Supersoft fabric is moisture-wicking, quick-drying and breathable, so you feel fresh and comfortable throughout your workout. ",
+   "size": ["s","l","m","xxl","xl"],
+  "price": 1874,
+  "actualPrice": 2499,
+   "img1":"https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/jLu5hJW6W3nu9MQ7PVaXQNFR",
+   "img2": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/9vBYtazvSBgi912gw6ktN4yR ",
+   "img3": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/vb4z6j9abTboDRy5zt74MjLy ",
+   "img4": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/9Fd1RaM8BD1eA1v8Wjwf6ogz ",
+   "type": "BOTTOMPWEAR",
+   "category": "WOMEN"
+ },
+ {
+   "id": 59,
+   "name": "Signature Branding Active Shorts ",
+   "desc": "Make sure you play all day in these stretchable shorts with permeability to wick away moisture and help keep you dry and cool while exercising comes and with a concealed drawstring at the waist.",
+   "size": ["s","l","m","xxl","xl"],
+  "price": 1499,
+  "actualPrice": 1999,
+   "img1":"https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/t5VpnpDQrsKVPHRUYgAiTgFL",
+   "img2": " https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/MC1VLTAeATF4xiJkuVN7JrHP",
+   "img3": " https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/uXEDY6E8kLsgtrjqKnTdSV1S",
+   "img4": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/B4VdKuLwQ3xqYyzxYwgxsvaT ",
+   "type": "BOTTOMPWEAR",
+   "category": "MEN"
+ },
+ {
+   "id":60,
+   "name": "Halftone Logo Active Shorts ",
+   "desc": "All about the shorts. Comfort with performance comes together in these stretchable cotton short. Its time to #Make your move. ",
+  
+   "price": 1199,
+   "img1":"https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/htjEJCau5FfPzq6orYWXz1vb ",
+   "img2": " https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/Fxqqgu2wiUKkL4YV3EayQtfB",
+   "img3": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/qsMvejJKwQGiuv7Bg9DDEzot ",
+   "img4": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/HBn1dmoHdnkm3ctKUthmXXWC ",
+   "type": "BOTTOMPWEAR",
+   "category": "WOMEN"
+ },
+ 
+ 
+ {
+   "id":61,
+   "name": "Cultsport Liquid L-Carnitine, 450ml",
+   "desc": "Cultsport Liquid L-Carnitine contains 1500 mg L-Carnitine per 15 ml serving that helps in transporting the long-chain fatty acids to the cells and convert them to energy. It helps in enhancing cellular energy which results in improved athletic performance for gym-goers & fitness enthusiasts. This L-carnitine liquid supplement also offers 5 mg of Vitamin B5 per serving, which helps in keeping the digestive tract healthy along with converting the food into energy. Since it is in liquid form it is fast-acting due to quicker absorption compared to other forms like carnitine tablets or capsules. Cultsport Liquid L-Carnitine comes refreshing mango flavor to entice your taste buds and revitalize you. ",
+ 
+   "price": 999,
+   "actualPrice": 1399,
+   "img1": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/DHjJcDyA9cmpAJqFt954L5kB",
+   "img2": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/zt5axKHYbh96HqbZprEmiVZ6 ",
+   "img3": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/QbvWS6DygMqBzFrWmprLQCUQ ",
+   "img4": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/mmAEiXJ9uBfot1J9HF7NAFgK ",
+   "type": "Health & Nutrition",
+   "category": "Health & Nutrition"
+ },
+ {
+   "id":62,
+   "name": "Cultsport Raw Whey 80%, 908g ",
+   "desc": "Elite Raw Whey Protein 80% with digestive enzymes is an unsweetened and unflavored whey protein supplement that provides consumption flexibility for its consumers. Add it to your recipes with any flavour of your choice for a delicious treat! Every 30 g serving of raw whey protein contains 24 g protein, 5.0 g naturally occurring BCAAs, and 10.1 g EAAs. This protein supplement for men and women delivers 80% protein content and helps in building lean muscle and enhancing muscle recovery for superior gains. It doesn't contain any artificial colours, sugars, or flavours. ",
+  
+  "price":1899 ,
+   "actualPrice": 2699,
+   "img2": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/DcaecB4PJ3kJKtDL18m4gzbA ",
+   "img3": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/Yt5muyBJmZ2BpDJoy3cEJLXs ",
+   "img4": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/sc5qgTocafb2Ypxa8dWBQn9G ",
+   "img1": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/NjwKbDm1qxqXmsrLjhWNZxs2 ",
+   "type": "Health & Nutrition",
+   "category": "Health & Nutrition"
+ },
+ {
+   "id":63,
+   "name": "Cultsport Elite 100% Whey, 1 Kg ",
+   "desc": "Cultsport Elite 100% Whey is Premium Blend of Whey Isolate and Whey Concentrate, which delivers 25g Protein per serve. Cultsport Elite 100% Whey is the best option for those athletes and sports enthusiasts that do intense, frequent training. Highest Biological Value and High Digestibility. Builds Muscle Mass: Premium Blend is rich source of Protein which helps to Build Lean muscle, Enhances recovery, Supports Healthy Metabolism and Reduces Muscle loss. With 5.2g BCAA and 3.9g Glutamic Acid per serving, this Whey Protein is available in Belgium Dark Chocolate. Readily dissolves in water or milk, no lumping or residue, For Best taste & mixability mix 1 scoop (35g) in 180-200 ml water for best results. ",
+   
+  "price": 2599,
+  "actualPrice": 3499,
+   "img1": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/ZCAj47EBjCcrTqoJwp38Mvr5 ",
+   "img2": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/K4pZxHUa2YVYmoGgvQ9CqEEp ",
+   "img3": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/q1aamFJQaUmGYe9ncTcP5NCF ",
+   "img4": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/Recuuc8FRSTSYayHB1wimah2 ",
+   "type": "Health & Nutrition ",
+   "category": "Health & Nutrition "
+ },
+ 
+ {
+   "id": 64,
+   "name": "Azani Calcium & Vitamin D Bone Support Gummies for Adults & Kids |Healthy diet supplement for strong bones (Mango & Strawberry Flavour), 30 Gummies",
+   "desc": "The Azani Calcium & Vitamin D Gummies are a premium and result-driven combination of all the essential supplements required to lead a healthy, active life. Formulated with a combination of Calcium and Vitamin D, our product is clinically proven to help you keep up with strong & healthy bones, teeth, and muscle mass from the inside. Free of chemical additives, gluten, nut, and soy, the Azani Calcium & Vitamin D Gummies are dairy-free and makes for a great dietary supplement for improved health, and keeps your body ready for the ultimate grind! ",
+  "price": 299,
+   "actualPrice": 549,
+   "img1": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/96T9f13kUMuksgadqCbZC1Ys ",
+   "img2": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/ftD7cSf5MRKeaf1ruCBwEC3L ",
+   "img3": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/GuKVYNWFqQBoBFbJqLp7oLCZ ",
+   "img4": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/7ojPWuKD5i9sd1Z8QPqkh5ED ",
+   "type": "Health & Nutrition",
+   "category": "Health & Nutrition"
+ },
+ {
+   "id": 65,
+   "name": "Azani Plant Mass Gainer 1kg | 1083 Kcal, 45g Vegan Protein, 225g Carbohydrates, 0.5g Chlorella, 0.3g Ashwagandha | Intense Muscle Recovery, Weight Gainer, No Bloating-Natural ",
+   "desc": "REPAIRS, NOURISHES, MAKES YOUR MUSCLE STRONGER: Formulated with Plant Protein, Ashwagandha, and, Digestive Enzymes, our clean, green mass gainer fuels your body to power through an intense workout. This superfood Intensifies sustained energy release. ",
+ 
+  "price": 799,
+   "actualPrice": 1200,
+   "img1": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/7NDUqVUrKSMkeULoXQSptLs6",
+   "img2": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/y8xwZFi2sig8ivdkH6QaYJae ",
+   "img3": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/8Zfo4L5pn5QxMQYVcnCd1uqa ",
+   "img4": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/pawvfAG8ksKmVpSKXTszSQTw ",
+   "type": "Health & Nutrition ",
+   "category": "Health & Nutrition"
+ },
+ {
+   "id": 66,
+   "name": "Azani Pure & Ultra-Strong Omega 3 Fish Oil | Omega 3(1000mg)+Omega 6,7 & 9 + Vitamin D3, 60 Capsules ",
+   "desc": "The Azani Pure & Ultra-Strong Fish Oil is a vital source of Omega 3, 6, 7, & 9. This supplement comprises some of the essential nutrients that you miss in your daily diet. Blended with other natural additives like Mint, Sea Buckthorn & Olive oil, this fish oil supplement nourishes the body with all the essential vitamins & minerals in your body. Free of preservatives & bulking agents, this Omega 3 rich fish oil supports improved cardiovascular health. ",
+ 
+  "price": 499,
+   "actualPrice": 999,
+   "img1": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/4gUCtbuHsPaUtCem2uqZZDUZ",
+   "img2": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/JVY6Z4rpEE6JZzZog8ePCUy7 ",
+   "img3": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/UuTSUNREZVSSBtDdBKJgH5WW ",
+   "img4": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/KcwXxUr8sPirDKS1bosaiLsK ",
+   "type": "Health & Nutrition",
+   "category": "Health & Nutrition"
+ }
+ 
+ 
+ 
+    ]
+ }
