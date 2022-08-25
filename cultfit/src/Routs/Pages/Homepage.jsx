@@ -1,8 +1,11 @@
 import React from 'react'
+import Introvideo from '../../Components/Homepage/Introvideo'
 
 const Homepage = () => {
   return (
-    <div>Homepage</div>
+    <div>
+      <Introvideo/>
+    </div>
   )
 }
 

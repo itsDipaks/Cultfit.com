@@ -1,0 +1,52 @@
+.footercontainer{
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    height: 300px;
+    padding: 10px;
+    font-size: 14px;
+}
+.Leftbox{
+width: 30%;
+text-align: start;
+margin: auto;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding-right: 5px;
+}
+.logofooter{
+    width: 50%;
+    margin: auto;
+    margin-bottom: 20px;
+}
+.Midbox{
+    display: flex;
+    width: 40%;
+    justify-content: space-between;
+}
+
+.rightbox{
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+    align-items: center;
+}
+.playlogo{
+    width: 40%;
+    margin-bottom: 20px;
+}
+.followlogobox{
+    display: flex;
+    width: 80%;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.followimg{
+    width: 12%;
+}
