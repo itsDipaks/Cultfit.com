@@ -2,6 +2,7 @@ import React, {useEffect, useState} from "react";
 import axios from "axios";
 import {Box, Container, Image, Text} from "@chakra-ui/react";
 import Styles from "../Store.module.css";
+import { Link } from "react-router-dom";
 
 const Tradmil = () => {
   const [tradmil, settradmil] = useState([]);
@@ -32,7 +33,7 @@ const Tradmil = () => {
    </Box>
         <div className={Styles.tradmilcontainer} >
           {tradmil?.map((tr) => (
-            <div className={Styles.itembox}>
+           <Link to={`/Storepage/${tr.id}`}> <div className={Styles.itembox}>
               <Box>
                 <Image src={tr.img1} />
               </Box>
@@ -48,6 +49,7 @@ const Tradmil = () => {
              </Box>
         
             </div>
+            </Link>
           ))}
         </div>
       </Box>
