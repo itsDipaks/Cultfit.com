@@ -55,20 +55,7 @@
        "category": "TREADMILL"
      }
  
-     ,{
-       "id":5,
-       "name": "FITKIT 10K 2.5HP DC Motorized Treadmill",
-       "desc": "Get 1 Year Free Subscription of cultsport play - An Immersive Fitness Game, Free Diet & Fitness Plan for 1 month along with 1 Doctor Consultation & Personal Video Training Session, Warranty: 1 Year warranty on Motor and Manufacturing Defect, 3 Year Warranty on Frame.",
-      "price": 24199,
-       "actualPrice": 69999,
-       "img1":"https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/SDgpHbPyumHJkqeM5ehAh6Gh",
-       "img2": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/tTfbUrg4MSCx3pqwdY6yPwwU",
-       "img3": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/xyPZU43PuEGbWhtrNKguRB23",
-       "img4": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_500,ar_3:4,c_fill/dpr_2/cultgear-content/6M4sVSnZEufQ8bMzEVJ5KhCA",
-       "type":"FITKIT",
-       "category": "TREADMILL"
-     }
- 
+    
      ,{
        "id":6,
        "name": "Smartbike c1: Bluetooth enabled spin bike with 8-level magnetic resistance",

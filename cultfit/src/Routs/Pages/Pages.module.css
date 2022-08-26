@@ -1,3 +1,24 @@
 .Storepage{
     background-color: white;
 }
+
+.heading{
+font-size: 25px;
+}
+.loginbtn{
+    width: 200px;
+    /* margin-left:-20px ; */
+    margin-top: 20px;
+}
+
+
+
+
+
+.signupbtn{
+    width: 200px;
+    margin-top: 20px;
+}
+
+
+
