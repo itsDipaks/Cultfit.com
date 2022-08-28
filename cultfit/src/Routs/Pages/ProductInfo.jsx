@@ -14,7 +14,11 @@ const ProductInfo = () => {
 
   const getProduct = (id) => {
     axios
+
       .get("https://cultfitdipaksapi.herokuapp.com/Products/" + id)
+
+      .get("http://localhost:3005/Products/" + id)
+
       .then((res) => {
         setProductdata([res.data]);
         console.log(res);
@@ -56,10 +60,19 @@ const ProductInfo = () => {
             <Box className={Styles.desc}>{pro.desc}
             </Box>
 
+
             <Button className={Styles.Addcartbtn} colorScheme='red'>Add To Cart</Button>
 
           </Box>
 
+
+
+            
+            <Button className={Styles.Addcartbtn} colorScheme='red'>Add To Cart</Button>
+         
+          </Box>
+
+        
 
         </div>
       ))}
@@ -67,4 +80,7 @@ const ProductInfo = () => {
   );
 };
 
+
 export default ProductInfo;
+
+

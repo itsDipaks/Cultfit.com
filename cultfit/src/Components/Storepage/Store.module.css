@@ -8,6 +8,13 @@
     width: 47%;
 }
 
+<<<<<<< HEAD
+=======
+
+
+
+
+>>>>>>> 80fb68d8ca52cb1eb4a01d0a11fdc5533b151143
 .Shopworkout{
     display: flex;
     width: 90vh;
@@ -26,7 +33,11 @@ width: 23%;
     overflow-x:scroll;
     /* width:900px; */
     scroll-behavior: smooth;
+<<<<<<< HEAD
 
+=======
+    
+>>>>>>> 80fb68d8ca52cb1eb4a01d0a11fdc5533b151143
 }
 
 
@@ -36,7 +47,11 @@ width: 23%;
    max-width: 200px;
    margin: 10px;
 }
+<<<<<<< HEAD
 
+=======
+   
+>>>>>>> 80fb68d8ca52cb1eb4a01d0a11fdc5533b151143
 .maincont{
     /* width: 1000px; */
     /* position: relative; */
@@ -71,7 +86,11 @@ width: 23%;
     justify-content: space-evenly;
     width: 80%;
     margin-top: 5px;
+<<<<<<< HEAD
 
+=======
+ 
+>>>>>>> 80fb68d8ca52cb1eb4a01d0a11fdc5533b151143
 }
 .percentage{
     color: red;
@@ -84,6 +103,7 @@ width: 23%;
 .price{
     font-size: 16px;
     font-weight: 600;
+<<<<<<< HEAD
 }
 .images{
     width: 300px;
@@ -91,4 +111,6 @@ width: 23%;
 .productname{
     font-size: 15px;
     text-decoration: none;
+=======
+>>>>>>> 80fb68d8ca52cb1eb4a01d0a11fdc5533b151143
 }

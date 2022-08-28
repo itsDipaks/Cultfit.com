@@ -13,7 +13,11 @@ const Navbar = () => {
 <Contentmenu/>
 <Navtabs/>
   </nav>
+<<<<<<< HEAD
 
+=======
+  
+>>>>>>> 80fb68d8ca52cb1eb4a01d0a11fdc5533b151143
   </>
   )
 }

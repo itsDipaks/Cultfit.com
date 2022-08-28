@@ -8,7 +8,15 @@ const Navtabs = () => {
   return (
     <>
       <Box className={Styles.navtabbox}>
+<<<<<<< HEAD
        
+=======
+        <Box>
+          <Button colorScheme="teal" variant="outline">
+             GET APP
+          </Button>
+        </Box >
+>>>>>>> 80fb68d8ca52cb1eb4a01d0a11fdc5533b151143
         <Box onClick={()=>navigate("/Login")} className={Styles.tab}>
           <Image className={Styles.tabimg} src="https://cdn-images.cure.fit/www-curefit-com/image/upload/c_fill,w_26,ar_1,q_auto:eco,dpr_2,f_auto,fl_progressive/image/test/header/Profile.png" />
         </Box>
