@@ -35,14 +35,6 @@ const Introslider = () => {
         />
 
       </Carousel.Item>
-      <Carousel.Item>
-        <img
-          className="d-block w-100"
-          src="https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_1440,ar_2880:596/dpr_2/image/vm/b49e8cf9-307f-4841-aa0f-be6081294a30.png"
-          alt="Third slide"
-        />
-
-      </Carousel.Item>
     </Carousel>
   
   </>

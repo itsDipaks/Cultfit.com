@@ -4,11 +4,7 @@ import { Route, Routes } from 'react-router-dom'
 import Carepage from './Pages/Carepage'
 import Fitnesspage from './Pages/Fitnesspage'
 import Homepage from './Pages/Homepage'
-<<<<<<< HEAD
 import Login from './Pages/Login.jsx'
-=======
-import Login from './Pages/Login'
->>>>>>> 80fb68d8ca52cb1eb4a01d0a11fdc5533b151143
 import Mindpage from './Pages/Mindpage'
 import ProductInfo from './Pages/ProductInfo'
 import Signup from './Pages/Signup'
