@@ -9,7 +9,7 @@ const Introvideo = () => {
   
     <>
     <Box className={Styles.videobox}>
-    <video src={video}  loop></video>
+    <video className={Styles.video} src={video} autoPlay loop></video>
     </Box>
     </>
   )

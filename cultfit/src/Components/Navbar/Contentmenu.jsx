@@ -5,10 +5,8 @@ import Styles from "./Navbar.module.css"
 
 
 const links=[
-  {
-    to:"/",
-    title:"Home"
-  },
+  
+  
   {
     to:"/Fitnesspage",
     title:"FITNESS "
