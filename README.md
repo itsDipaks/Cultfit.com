@@ -30,19 +30,19 @@ CultFit is a health and fitness company offering digital and offline experiences
 - After successfull transaction they can see their payment details at afterpaymentpage.
 ## Homepage
 
-<img height="250" width="1000" align="center" src="./1.png" alt="itsdipaks" />
-<img height="250" width="1000" align="center" src="./2.png" alt="itsdipaks" />
+<img height="550" width="1000" align="center" src="./1.png" alt="itsdipaks" />
+<img height="550" width="1000" align="center" src="./2.png" alt="itsdipaks" />
 
 
 ## Signup/Sign In pages
 
-<img height="250" width="1000" align="center" src="./signin.png" alt="itsdipaks" />
-<img height="250" width="1000" align="center" src="./signup.png" alt="itsdipaks" />
+<img height="550" width="1000" align="center" src="./signin.png" alt="itsdipaks" />
+<img height="550" width="1000" align="center" src="./signup.png" alt="itsdipaks" />
 
 ## Checkout-Add to Cart
 
-<img height="250" width="1000" align="center" src="./products.png" alt="itsdipaks" />
-<img height="250" width="1000" align="center" src="./pro2.png" alt="itsdipaks" />
-=======
+<img height="550" width="1000" align="center" src="./products.png" alt="itsdipaks" />
+<img height="550" width="1000" align="center" src="./pro2.png" alt="itsdipaks" />
+
 # CultFit.com
 CultFit is a health and fitness company offering digital and offline experiences across fitness, nutrition, and mental well-being. With the aim to make fitness fun and easy, CultFit gives workouts a whole new meaning with a range of trainer-led, group workout classes.
